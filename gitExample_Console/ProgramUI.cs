@@ -18,5 +18,10 @@ namespace gitExample_Console
 
             // Marty's second change
         }
+
+        public void Menu()
+        {
+            // Insert menu information here
+        }
     }
 }
