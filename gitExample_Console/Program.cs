@@ -12,6 +12,8 @@ namespace gitExample_Console
         {
             ProgramUI program = new ProgramUI();
             program.Run();
+
+            // Other changes
         }
     }
 }

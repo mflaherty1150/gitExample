@@ -13,10 +13,6 @@ namespace gitExample_Console
             // Seed data
             // Main menu call
             // Any post run cleanup
-
-            //Dave made changes here.
-
-            // Marty's second change
         }
     }
 }
