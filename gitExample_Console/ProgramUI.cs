@@ -14,9 +14,8 @@ namespace gitExample_Console
             // Main menu call
             // Any post run cleanup
 
-            //Dave made changes here.
+            // Other changes here
 
-            // Marty's second change
         }
 
         public void Menu()
