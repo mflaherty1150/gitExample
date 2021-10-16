@@ -14,5 +14,10 @@ namespace gitExample_Console
             // Main menu call
             // Any post run cleanup
         }
+
+        public void Seed()
+        {
+            // Create some seed data
+        }
     }
 }
