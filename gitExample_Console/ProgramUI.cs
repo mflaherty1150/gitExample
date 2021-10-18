@@ -13,6 +13,9 @@ namespace gitExample_Console
             // Seed data
             // Main menu call
             // Any post run cleanup
+
+            // Our test branch changes
+            // Some cool stuff
         }
 
         public void Menu()
