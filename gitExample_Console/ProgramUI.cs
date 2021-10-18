@@ -15,6 +15,11 @@ namespace gitExample_Console
             // Any post run cleanup
         }
 
+        public void Menu()
+        {
+            // Insert menu information here
+        }
+
         public void Seed()
         {
             // Create some seed data

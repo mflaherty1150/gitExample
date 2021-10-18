@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RealTimeArt_Interface
 {
-    public interface ArtPiece
+    public interface IArtPiece
     {
         string ArtistName { get; set; }
         string WorkName { get; set; }
